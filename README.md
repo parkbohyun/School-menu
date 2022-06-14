@@ -53,5 +53,3 @@ main()
 ## 실행 화면
 <img src = "https://user-images.githubusercontent.com/47629333/173512539-34aa02b2-c668-43b2-a97a-369b3af9de64.png" width = "320px" height = "350px">
 
-## License
-Apache2 License ©
