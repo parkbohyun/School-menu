@@ -54,4 +54,4 @@ main()
 <img src = "https://user-images.githubusercontent.com/47629333/173512539-34aa02b2-c668-43b2-a97a-369b3af9de64.png" width = "320px" height = "350px">
 
 ## License
-This project is licensed under the MIT License
+Apache2 License ©
