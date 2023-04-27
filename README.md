@@ -18,7 +18,7 @@ pip install Neispy
 ## Source
 
 ```python
-import datetime     ## 오늘 날짜를 구하기 위해 사용
+import datetime     ## 오늘 날짜를 구하기 위해 사용 함
 from neispy import Neispy
 
 T_day = str(datetime.datetime.now())        # 오늘 날짜를 구함
